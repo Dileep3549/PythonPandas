@@ -1,4 +1,4 @@
-The files contain a basic ML mode .
+The files contain a basic ML mode . Inspired from Kaggle course
 Few things that can be learnt from the Python files are 
 1) Read a csv file using Pandas
 2) Check descriptive summary of the dataframe
